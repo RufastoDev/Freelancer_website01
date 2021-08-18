@@ -1,2 +1,5 @@
-# Freelancer_website01
-This is simple project where I learn about responsive design
+# A simple responsive website call **Freelancer**
+Where i learned the basics of css grid and flexbox
+
+- Here are some imgs about that website :
+![Screenshot](Freelancer_web_HannPieer.jpg)
